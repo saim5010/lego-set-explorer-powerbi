@@ -1,8 +1,16 @@
 # LEGO Set Explorer – Power BI Dashboard
 
 ## Project Overview
+This project is an interactive Power BI dashboard that allows users to explore LEGO sets by theme, category, price, and pieces.
 
-This project is an interactive Power BI dashboard built to explore LEGO sets based on themes, categories, price, and piece counts. The dashboard allows users to filter and analyze LEGO sets dynamically while viewing detailed information and images of each set.
+## Dashboard Overview
+![Dashboard Overview](dashboard-overview.png)
+
+## Set Details Panel
+![Set Details](set-details-view.png)
+
+## Set Explorer Analysis
+![Set Explorer](set-explorer-analysis.png)
 
 ## Dashboard Features
 
